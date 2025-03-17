@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME!&color=timeGradient&height=300&section=header&fontSize=50&animation=fadeIn)
 <h1 align="left">안녕하세요👋, 반갑습니다! .</h1>
-<h3 align="left">LLM 생성형 AI 개발자로 거듭나고 싶은 정현우라고 합니다.</h3>
+
 
 📧 E-mail: **lovearamis3@gmail.com**
 <h3 align="left"> 📫Connect with me:</h3>
