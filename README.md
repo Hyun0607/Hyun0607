@@ -15,11 +15,25 @@
 
 <h3 align="left">My Teck Stack 📚 :</h3>
 <p align="left">
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+
+  <!-- Azure SQL -->
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail.png" alt="azure-sql" width="40" height="40"/>
   </a>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" alt="pandas" width="40" height="40"/>
+  </a>
+
+  <!-- OpenAI -->
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="openai" width="40" height="40"/>
+  </a>
 </p>
+
 
