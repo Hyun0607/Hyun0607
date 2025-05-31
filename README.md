@@ -30,10 +30,8 @@
     <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" alt="pandas" width="40" height="40"/>
   </a>
 
-  <!-- OpenAI -->
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="openai" width="40" height="40"/>
+  <!-- ChatGPT -->
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://idchowto.com/wp-content/uploads/2023/12/ChatGPT_logo.png" alt="chatgpt" width="40" height="40"/>
   </a>
 </p>
-
-
