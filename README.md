@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/SQL-20B2AA?style=for-the-badge&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google BigQuery-4285F4?style=for-the-badge&logo=Google%20BigQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Airflow-FF0000?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
