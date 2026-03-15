@@ -9,25 +9,15 @@
 </a>
 
 
-<h3 align="left">My Teck Stack 📚 :</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<h3 align="left"> 🚀My Stack:</h3>
 
-  <!-- Azure SQL -->
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail.png" alt="azure-sql" width="40" height="40"/>
-  </a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-20B2AA?style=for-the-badge&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google BigQuery-4285F4?style=for-the-badge&logo=Google%20BigQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" alt="pandas" width="40" height="40"/>
-  </a>
+<br/>
 
-  <!-- ChatGPT -->
-  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://idchowto.com/wp-content/uploads/2023/12/ChatGPT_logo.png" alt="chatgpt" width="40" height="40"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Apache Airflow-FF0000?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
