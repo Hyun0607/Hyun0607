@@ -4,11 +4,11 @@
 
 📧 E-mail: **lovearamis3@gmail.com**
 <h3 align="left"> 📫Connect with me:</h3>
-<a href="https://velog.io/@hyunnu/posts" target="_blank">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="28px" />
-</a>
 <a href="https://dented-girdle-0aa.notion.site/Data-Engineer-Let-s-Do-It-2a7e5ea41583801998dac9d932153c97?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="28px" />
+</a>
+<a href="https://velog.io/@hyunnu/posts" target="_blank">
+  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="28px" />
 </a>
 
 
